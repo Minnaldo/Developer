@@ -147,7 +147,7 @@ WEEK(날짜)            일년 중 몇 번째 주.
 FROM_DAYS(날 수)      00년 00월 00일부터날 수 만큼 경과한 날의 날짜 출력.
 TO_DAYS(날짜)         00년 00월 00일부터 날짜까지의 일자 수 출력.
 
-<img src='/Volumes/Untitled/STUDY/Developer/Database_SQL/img/DATE_FORMAT.png'>;
+<img src='./img/DATE_FORMAT.png'>;
 
 
 
@@ -160,4 +160,4 @@ PASSWORD('문자열')
 FORMAT(숫자,소수이하자리수)
     숫자를 #,###,###.## 형식으로 출력
 
-<img src='/Volumes/Untitled/STUDY/Developer/Database_SQL/img/DATE_FUNCTION2.png'>;
+<img src='./img/DATE_FUNCTION2.png'>;
